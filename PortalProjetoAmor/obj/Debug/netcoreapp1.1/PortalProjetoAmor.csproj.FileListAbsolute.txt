@@ -7,3 +7,12 @@ C:\Users\vic21\Documents\Visual Studio 2017\Projects\AnitaBriza\PortalProjetoAmo
 C:\Users\vic21\Documents\Visual Studio 2017\Projects\AnitaBriza\PortalProjetoAmor\obj\Debug\netcoreapp1.1\PortalProjetoAmor.dll
 C:\Users\vic21\Documents\Visual Studio 2017\Projects\AnitaBriza\PortalProjetoAmor\obj\Debug\netcoreapp1.1\PortalProjetoAmor.pdb
 C:\Users\vic21\Documents\Visual Studio 2017\Projects\AnitaBriza\PortalProjetoAmor\obj\Debug\netcoreapp1.1\PortalProjetoAmor.csprojResolveAssemblyReference.cache
+C:\Users\vic21\Documents\GitHub\ProjetosAnitaBriza\PortalProjetoAmor\bin\Debug\netcoreapp1.1\PortalProjetoAmor.deps.json
+C:\Users\vic21\Documents\GitHub\ProjetosAnitaBriza\PortalProjetoAmor\bin\Debug\netcoreapp1.1\PortalProjetoAmor.runtimeconfig.json
+C:\Users\vic21\Documents\GitHub\ProjetosAnitaBriza\PortalProjetoAmor\bin\Debug\netcoreapp1.1\PortalProjetoAmor.runtimeconfig.dev.json
+C:\Users\vic21\Documents\GitHub\ProjetosAnitaBriza\PortalProjetoAmor\bin\Debug\netcoreapp1.1\PortalProjetoAmor.dll
+C:\Users\vic21\Documents\GitHub\ProjetosAnitaBriza\PortalProjetoAmor\bin\Debug\netcoreapp1.1\PortalProjetoAmor.pdb
+C:\Users\vic21\Documents\GitHub\ProjetosAnitaBriza\PortalProjetoAmor\obj\Debug\netcoreapp1.1\PortalProjetoAmor.csprojResolveAssemblyReference.cache
+C:\Users\vic21\Documents\GitHub\ProjetosAnitaBriza\PortalProjetoAmor\obj\Debug\netcoreapp1.1\PortalProjetoAmor.AssemblyInfo.cs
+C:\Users\vic21\Documents\GitHub\ProjetosAnitaBriza\PortalProjetoAmor\obj\Debug\netcoreapp1.1\PortalProjetoAmor.dll
+C:\Users\vic21\Documents\GitHub\ProjetosAnitaBriza\PortalProjetoAmor\obj\Debug\netcoreapp1.1\PortalProjetoAmor.pdb

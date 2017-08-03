@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortalProjetoAmor", "PortalProjetoAmor\PortalProjetoAmor.csproj", "{7981B284-300E-481C-AEEF-C9F7E4F203CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortalProjetoAmor.Tests", "PortalProjetoAmor.Tests\PortalProjetoAmor.Tests.csproj", "{75960609-64FD-401B-9273-F8A5776DDB53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7981B284-300E-481C-AEEF-C9F7E4F203CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7981B284-300E-481C-AEEF-C9F7E4F203CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7981B284-300E-481C-AEEF-C9F7E4F203CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7981B284-300E-481C-AEEF-C9F7E4F203CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75960609-64FD-401B-9273-F8A5776DDB53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75960609-64FD-401B-9273-F8A5776DDB53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75960609-64FD-401B-9273-F8A5776DDB53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75960609-64FD-401B-9273-F8A5776DDB53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45
+	EndGlobalSection
+EndGlobal
